@@ -1,0 +1,89 @@
+html {
+    height: 100%;
+}
+
+body
+{
+    background-color: #2F3035;
+    background-image: url(Images/aticas-background2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+margin-left: auto;
+margin-right: auto;
+width: 1100px;
+}
+
+header {
+height: 180px;
+text-align: center;
+}
+
+nav {
+    background-color: rgba(255, 255, 0, 0.404);
+    padding-top: 25px;   
+    padding-bottom: 25px;
+    text-align: center;
+    }
+
+    main {
+        
+        height: 400px;
+        text-align: center;
+        padding-top: 80px;
+        padding-left: 250px;
+        padding-right: 250px;
+        }
+        
+        footer {
+            background-color: rgba(255, 68, 0, 0.404);
+            padding-top: 30px;
+            padding-bottom: 30px;
+            text-align: center;
+        
+
+        }
+
+        img {
+            height: 171px;
+            width: 150px;
+            text-align: center;
+            margin-top: 10px;
+            
+        }
+            
+            h1 {
+                color: white;
+                font-size: 30px;
+                font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            }
+
+            p {
+                color: white;
+                font-size: 30px;
+                font-style: normal;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            a {
+                color: blue;
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            nav a {
+
+        padding-left: 15px;
+        padding-right: 15px;
+        text-decoration: none;
+        color: black;
+        font-size: 17px;
+            }
+
+            footer p {
+                
+        color: black;
+        font-size: 15px;
+            }
